@@ -1,4 +1,4 @@
-<img width="841" height="381" alt="{944B7B46-8BF4-4F08-A4C2-71214584C189}" src="https://github.com/user-attachments/assets/d5e24062-6b71-473d-b84b-cb9db37da856" /># SGD-Classifier
+
 ## AIM:
 To write a program to predict the type of species of the Iris flower using the SGD Classifier.
 
@@ -98,7 +98,8 @@ print(f"Probability of Placement: {placement_prob[0][1]:.2f}")
 ```
 
 ## Output:
-<img width="841" height="381" alt="{944B7B46-8BF4-4F08-A4C2-71214584C189}" src="https://github.com/user-attachments/assets/b268a22e-e68a-4cc7-8ff5-8b5ef7aa7971" />
+<img width="612" height="384" alt="{02E2BE10-D5A7-4FD9-BFB9-99F03057852F}" src="https://github.com/user-attachments/assets/f8dcecb0-4789-4f19-b2b9-3e0019f5e579" />
+
 
 
 
